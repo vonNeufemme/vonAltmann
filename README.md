@@ -1,4 +1,4 @@
-### 안녕하세요 👋 놀러오셨군요. 어서오세요~ <img src="https://github.com/vonAltmann/vonAltmann/blob/main/images/waving_hand_cliply.gif" width=30 />
+### 안녕하세요! 놀러오셨군요. 어서오세요~ <img src="https://github.com/vonAltmann/vonAltmann/blob/main/images/cliply_waving_hand.gif" width=30 />
 Hi. Welcome!
 
 <img align='left' width="44%" src="https://github-readme-stats.vercel.app/api?username=vonAltmann&show_icons=true&theme=dark&title_color=e3e3e3&text_color=ffffff&bg_color=DEG,0a0c10,0e4429,006d32" />
